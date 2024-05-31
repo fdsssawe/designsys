@@ -22,6 +22,8 @@ const config: Config = {
         "accent-dark": "#58a8b0",
         "background": "#f8fbf6",
         "text": "#12190c",
+        "foreground": "#F2F2F2",
+        "foreground-outline": "#8B8D8E",
       },
     },
   },
